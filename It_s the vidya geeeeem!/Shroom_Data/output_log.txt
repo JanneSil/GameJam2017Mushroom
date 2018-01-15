@@ -1,0 +1,55 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8253
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\janne\Documents\repos\GameJam2017\It_s the vidya geeeeem!\Shroom_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\janne\Documents\repos\GameJam2017\It_s the vidya geeeeem!\Shroom_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\janne\Documents\repos\GameJam2017\It_s the vidya geeeeem!\Shroom_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\janne\Documents\repos\GameJam2017\It_s the vidya geeeeem!\Shroom_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\janne\Documents\repos\GameJam2017\It_s the vidya geeeeem!\Shroom_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\janne\Documents\repos\GameJam2017\It_s the vidya geeeeem!\Shroom_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\janne\Documents\repos\GameJam2017\It_s the vidya geeeeem!\Shroom_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\janne\Documents\repos\GameJam2017\It_s the vidya geeeeem!\Shroom_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\janne\Documents\repos\GameJam2017\It_s the vidya geeeeem!\Shroom_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\janne\Documents\repos\GameJam2017\It_s the vidya geeeeem!\Shroom_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\janne\Documents\repos\GameJam2017\It_s the vidya geeeeem!\Shroom_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\janne\Documents\repos\GameJam2017\It_s the vidya geeeeem!\Shroom_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.020 seconds
+Platform assembly: C:\Users\janne\Documents\repos\GameJam2017\It_s the vidya geeeeem!\Shroom_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\janne\Documents\repos\GameJam2017\It_s the vidya geeeeem!\Shroom_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.731275 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1774 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.306942 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 7705.
+Total: 1.884357 ms (FindLiveObjects: 0.159055 ms CreateObjectMapping: 0.083173 ms MarkObjects: 0.594093 ms  DeleteObjects: 1.044255 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.244324 ms
+
+Unloading 115 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.966482 ms (FindLiveObjects: 0.023763 ms CreateObjectMapping: 0.011881 ms MarkObjects: 0.133131 ms  DeleteObjects: 0.797166 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.253840 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 374.
+Total: 0.156354 ms (FindLiveObjects: 0.015122 ms CreateObjectMapping: 0.010261 ms MarkObjects: 0.128000 ms  DeleteObjects: 0.002430 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.209283 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 0.157434 ms (FindLiveObjects: 0.014042 ms CreateObjectMapping: 0.010261 ms MarkObjects: 0.130970 ms  DeleteObjects: 0.002160 ms)
+
